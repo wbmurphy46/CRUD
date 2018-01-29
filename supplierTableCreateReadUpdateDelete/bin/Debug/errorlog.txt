@@ -1,0 +1,28 @@
+1/25/2018 10:19:46 AMwarning.Net SqlClient Data ProviderProcedure or function 'ADD_ROW' expects parameter '@Address', which was not supplied.
+1/25/2018 10:20:03 AMwarning.Net SqlClient Data ProviderProcedure or function 'ADD_ROW' expects parameter '@Address', which was not supplied.
+1/25/2018 11:02:47 AMwarning.Net SqlClient Data ProviderThe DELETE statement conflicted with the REFERENCE constraint "FK_Products_Suppliers". The conflict occurred in database "NORTHWND", table "dbo.Products", column 'SupplierID'.
+The statement has been terminated.
+1/25/2018 11:07:57 AMwarning.Net SqlClient Data ProviderThe DELETE statement conflicted with the REFERENCE constraint "FK_Products_Suppliers". The conflict occurred in database "NORTHWND", table "dbo.Products", column 'SupplierID'.
+The statement has been terminated.
+1/25/2018 11:13:17 AMwarning.Net SqlClient Data ProviderThe DELETE statement conflicted with the REFERENCE constraint "FK_Order_Details_Products". The conflict occurred in database "NORTHWND", table "dbo.Order Details", column 'ProductID'.
+The DELETE statement conflicted with the REFERENCE constraint "FK_Products_Suppliers". The conflict occurred in database "NORTHWND", table "dbo.Products", column 'SupplierID'.
+The statement has been terminated.
+The statement has been terminated.
+1/25/2018 12:34:02 PMwarning.Net SqlClient Data ProviderSubquery returned more than 1 value. This is not permitted when the subquery follows =, !=, <, <= , >, >= or when the subquery is used as an expression.
+The DELETE statement conflicted with the REFERENCE constraint "FK_Order_Details_Products". The conflict occurred in database "NORTHWND", table "dbo.Order Details", column 'ProductID'.
+The DELETE statement conflicted with the REFERENCE constraint "FK_Products_Suppliers". The conflict occurred in database "NORTHWND", table "dbo.Products", column 'SupplierID'.
+The statement has been terminated.
+The statement has been terminated.
+The statement has been terminated.
+1/25/2018 1:51:19 PMwarningsupplierTableCreateReadUpdateDeleteInvalid attempt to read when no data is present.
+1/25/2018 1:52:39 PMwarningsupplierTableCreateReadUpdateDeleteInvalid attempt to read when no data is present.
+1/25/2018 1:52:58 PMwarningsupplierTableCreateReadUpdateDeleteInvalid attempt to read when no data is present.
+1/25/2018 1:54:46 PMwarningsupplierTableCreateReadUpdateDeleteUnable to cast object of type 'System.Int32' to type 'System.String'.
+1/25/2018 1:56:19 PMwarningsupplierTableCreateReadUpdateDeleteUnable to cast object of type 'System.Int32' to type 'System.String'.
+1/25/2018 1:57:07 PMwarningsupplierTableCreateReadUpdateDeleteData is Null. This method or property cannot be called on Null values.
+1/25/2018 1:57:17 PMwarningsupplierTableCreateReadUpdateDeleteData is Null. This method or property cannot be called on Null values.
+1/25/2018 2:50:29 PMwarningsupplierTableCreateReadUpdateDeleteInvalid attempt to read when no data is present.
+1/26/2018 8:44:04 AM Warning .Net SqlClient Data Provider Could not find stored procedure 'READ_ROW'.
+1/26/2018 8:46:16 AM Warning .Net SqlClient Data Provider Could not find stored procedure 'READ_ROW'.
+1/26/2018 8:47:51 AM Warning .Net SqlClient Data Provider Could not find stored procedure 'READ_ROW'.
+1/26/2018 8:48:48 AM Warning .Net SqlClient Data Provider Could not find stored procedure 'READ_ROW'.
